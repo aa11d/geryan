@@ -1,0 +1,15 @@
+D:\geryan\geryan\0122\0122_HOESES\bin\Debug\net9.0\0122_HOESES.exe
+D:\geryan\geryan\0122\0122_HOESES\bin\Debug\net9.0\0122_HOESES.deps.json
+D:\geryan\geryan\0122\0122_HOESES\bin\Debug\net9.0\0122_HOESES.runtimeconfig.json
+D:\geryan\geryan\0122\0122_HOESES\bin\Debug\net9.0\0122_HOESES.dll
+D:\geryan\geryan\0122\0122_HOESES\bin\Debug\net9.0\0122_HOESES.pdb
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.GeneratedMSBuildEditorConfig.editorconfig
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.AssemblyInfoInputs.cache
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.AssemblyInfo.cs
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.csproj.CoreCompileInputs.cache
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.sourcelink.json
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.dll
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\refint\0122_HOESES.dll
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.pdb
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\0122_HOESES.genruntimeconfig.cache
+D:\geryan\geryan\0122\0122_HOESES\obj\Debug\net9.0\ref\0122_HOESES.dll
