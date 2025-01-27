@@ -1,0 +1,14 @@
+d:\geryan\0127\0127_gaming\bin\Debug\net9.0\0127_gaming.exe
+D:\geryan\0127\0127_gaming\bin\Debug\net9.0\0127_gaming.deps.json
+D:\geryan\0127\0127_gaming\bin\Debug\net9.0\0127_gaming.runtimeconfig.json
+d:\geryan\0127\0127_gaming\bin\Debug\net9.0\0127_gaming.dll
+d:\geryan\0127\0127_gaming\bin\Debug\net9.0\0127_gaming.pdb
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.GeneratedMSBuildEditorConfig.editorconfig
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.AssemblyInfoInputs.cache
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.AssemblyInfo.cs
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.csproj.CoreCompileInputs.cache
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.dll
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\refint\0127_gaming.dll
+d:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.pdb
+D:\geryan\0127\0127_gaming\obj\Debug\net9.0\0127_gaming.genruntimeconfig.cache
+D:\geryan\0127\0127_gaming\obj\Debug\net9.0\ref\0127_gaming.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "0127_gaming/1.0.0": {
+        "runtime": {
+          "0127_gaming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "0127_gaming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
