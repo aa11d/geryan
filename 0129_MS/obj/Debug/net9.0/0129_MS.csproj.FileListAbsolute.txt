@@ -1,0 +1,14 @@
+D:\geryan\0129_MS\0129_MS\bin\Debug\net9.0\0129_MS.exe
+D:\geryan\0129_MS\0129_MS\bin\Debug\net9.0\0129_MS.deps.json
+D:\geryan\0129_MS\0129_MS\bin\Debug\net9.0\0129_MS.runtimeconfig.json
+D:\geryan\0129_MS\0129_MS\bin\Debug\net9.0\0129_MS.dll
+D:\geryan\0129_MS\0129_MS\bin\Debug\net9.0\0129_MS.pdb
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.GeneratedMSBuildEditorConfig.editorconfig
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.AssemblyInfoInputs.cache
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.AssemblyInfo.cs
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.csproj.CoreCompileInputs.cache
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.dll
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\refint\0129_MS.dll
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.pdb
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\0129_MS.genruntimeconfig.cache
+D:\geryan\0129_MS\0129_MS\obj\Debug\net9.0\ref\0129_MS.dll
