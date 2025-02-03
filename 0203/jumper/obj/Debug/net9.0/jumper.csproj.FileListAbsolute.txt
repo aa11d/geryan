@@ -1,0 +1,14 @@
+d:\geryan\0203\jumper\bin\Debug\net9.0\jumper.exe
+D:\geryan\0203\jumper\bin\Debug\net9.0\jumper.deps.json
+D:\geryan\0203\jumper\bin\Debug\net9.0\jumper.runtimeconfig.json
+d:\geryan\0203\jumper\bin\Debug\net9.0\jumper.dll
+d:\geryan\0203\jumper\bin\Debug\net9.0\jumper.pdb
+d:\geryan\0203\jumper\obj\Debug\net9.0\jumper.GeneratedMSBuildEditorConfig.editorconfig
+d:\geryan\0203\jumper\obj\Debug\net9.0\jumper.AssemblyInfoInputs.cache
+d:\geryan\0203\jumper\obj\Debug\net9.0\jumper.AssemblyInfo.cs
+d:\geryan\0203\jumper\obj\Debug\net9.0\jumper.csproj.CoreCompileInputs.cache
+d:\geryan\0203\jumper\obj\Debug\net9.0\jumper.dll
+d:\geryan\0203\jumper\obj\Debug\net9.0\refint\jumper.dll
+d:\geryan\0203\jumper\obj\Debug\net9.0\jumper.pdb
+D:\geryan\0203\jumper\obj\Debug\net9.0\jumper.genruntimeconfig.cache
+D:\geryan\0203\jumper\obj\Debug\net9.0\ref\jumper.dll
