@@ -1,0 +1,17 @@
+D:\geryan\0212\golyózás\golyózás\bin\Debug\net9.0-windows\golyózás.exe
+D:\geryan\0212\golyózás\golyózás\bin\Debug\net9.0-windows\golyózás.deps.json
+D:\geryan\0212\golyózás\golyózás\bin\Debug\net9.0-windows\golyózás.runtimeconfig.json
+D:\geryan\0212\golyózás\golyózás\bin\Debug\net9.0-windows\golyózás.dll
+D:\geryan\0212\golyózás\golyózás\bin\Debug\net9.0-windows\golyózás.pdb
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.labdázó.resources
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.Properties.Resources.resources
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.csproj.GenerateResource.cache
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.GeneratedMSBuildEditorConfig.editorconfig
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.AssemblyInfoInputs.cache
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.AssemblyInfo.cs
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.csproj.CoreCompileInputs.cache
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.dll
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\refint\golyózás.dll
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.pdb
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\golyózás.genruntimeconfig.cache
+D:\geryan\0212\golyózás\golyózás\obj\Debug\net9.0-windows\ref\golyózás.dll
