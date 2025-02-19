@@ -1,0 +1,17 @@
+D:\geryan\0219\kokain\kokain\bin\Debug\net8.0-windows\kokain.exe
+D:\geryan\0219\kokain\kokain\bin\Debug\net8.0-windows\kokain.deps.json
+D:\geryan\0219\kokain\kokain\bin\Debug\net8.0-windows\kokain.runtimeconfig.json
+D:\geryan\0219\kokain\kokain\bin\Debug\net8.0-windows\kokain.dll
+D:\geryan\0219\kokain\kokain\bin\Debug\net8.0-windows\kokain.pdb
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.Properties.Resources.resources
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.csproj.GenerateResource.cache
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.GeneratedMSBuildEditorConfig.editorconfig
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.AssemblyInfoInputs.cache
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.AssemblyInfo.cs
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.csproj.CoreCompileInputs.cache
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.dll
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\refint\kokain.dll
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.pdb
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.genruntimeconfig.cache
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\ref\kokain.dll
+D:\geryan\0219\kokain\kokain\obj\Debug\net8.0-windows\kokain.Faszom.resources
