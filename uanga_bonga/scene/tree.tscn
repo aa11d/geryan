@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=3 uid="uid://b44fl1exmv85l"]
+
+[ext_resource type="Texture2D" uid="uid://drvcx4ubeb85o" path="res://texture/tree_01.png" id="1_dcgk5"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_q7koc"]
+height = 5.0
+
+[node name="Tree" type="Sprite3D"]
+pixel_size = 0.0025
+billboard = 2
+shaded = true
+texture_filter = 2
+texture = ExtResource("1_dcgk5")
+
+[node name="Collision" type="Area3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -1, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Collision"]
+shape = SubResource("CapsuleShape3D_q7koc")

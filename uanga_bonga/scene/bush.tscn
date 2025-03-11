@@ -1,0 +1,85 @@
+[gd_scene load_steps=6 format=3 uid="uid://chpxjduvfpv7r"]
+
+[ext_resource type="Texture2D" uid="uid://cftc8wwogvv7r" path="res://texture/bush.png" id="1_qxmu4"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_q7koc"]
+radius = 1.0
+
+[sub_resource type="Animation" id="Animation_byt3c"]
+length = 0.001
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(0, 0, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:scale")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0),
+"transitions": PackedFloat32Array(1),
+"update": 0,
+"values": [Vector3(1, 1, 1)]
+}
+
+[sub_resource type="Animation" id="Animation_q7koc"]
+resource_name = "gather"
+tracks/0/type = "value"
+tracks/0/imported = false
+tracks/0/enabled = true
+tracks/0/path = NodePath(".:position")
+tracks/0/interp = 1
+tracks/0/loop_wrap = true
+tracks/0/keys = {
+"times": PackedFloat32Array(0, 1),
+"transitions": PackedFloat32Array(1.86607, 1),
+"update": 0,
+"values": [Vector3(0, 0, 0), Vector3(0, -2, 0)]
+}
+tracks/1/type = "value"
+tracks/1/imported = false
+tracks/1/enabled = true
+tracks/1/path = NodePath(".:scale")
+tracks/1/interp = 1
+tracks/1/loop_wrap = true
+tracks/1/keys = {
+"times": PackedFloat32Array(0, 0.666667),
+"transitions": PackedFloat32Array(0.5, 1),
+"update": 0,
+"values": [Vector3(1, 1, 1), Vector3(0.3, 0.3, 0.3)]
+}
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_7id6h"]
+_data = {
+&"RESET": SubResource("Animation_byt3c"),
+&"gather": SubResource("Animation_q7koc")
+}
+
+[node name="Root" type="Node3D" groups=["interact"]]
+
+[node name="Bush" type="Sprite3D" parent="."]
+pixel_size = 0.0025
+billboard = 2
+shaded = true
+texture_filter = 2
+texture = ExtResource("1_qxmu4")
+
+[node name="Collision" type="Area3D" parent="Bush" groups=["interact"]]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Bush/Collision"]
+shape = SubResource("SphereShape3D_q7koc")
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="Bush"]
+libraries = {
+&"": SubResource("AnimationLibrary_7id6h")
+}
