@@ -1,0 +1,17 @@
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\bin\Debug\net8.0-windows\michael_jordan_fan_app.exe
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\bin\Debug\net8.0-windows\michael_jordan_fan_app.deps.json
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\bin\Debug\net8.0-windows\michael_jordan_fan_app.runtimeconfig.json
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\bin\Debug\net8.0-windows\michael_jordan_fan_app.dll
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\bin\Debug\net8.0-windows\michael_jordan_fan_app.pdb
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.Form1.resources
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.Properties.Resources.resources
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.csproj.GenerateResource.cache
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.AssemblyInfoInputs.cache
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.AssemblyInfo.cs
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.csproj.CoreCompileInputs.cache
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.dll
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\refint\michael_jordan_fan_app.dll
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.pdb
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\michael_jordan_fan_app.genruntimeconfig.cache
+D:\geryan\michael_jordan_fan_app\michael_jordan_fan_app\obj\Debug\net8.0-windows\ref\michael_jordan_fan_app.dll
